@@ -1,0 +1,22 @@
+•	https://www.javatpoint.com/Garbage-Collection
+
+Advantage of Garbage Collection
+o	It makes java memory efficient because garbage collector removes the unreferenced objects from heap memory.
+o	It is automatically done by the garbage collector(a part of JVM) so we don't need to make extra efforts.
+
+finalize() method
+The finalize() method is invoked each time before the object is garbage collected. This method can be used to perform cleanup processing. This method is defined in Object class as:     protected void finalize(){}  
+
+Note: Garbage collection is performed by a daemon thread called Garbage Collector(GC). 
+      This thread calls the finalize() method before object is garbage collected.
+      
+      
+•	https://www.javatpoint.com/synchronization-in-java 
+•	https://www.javatpoint.com/deadlock-in-java
+•	https://www.javatpoint.com/inter-thread-communication-example
+
+
+>> https://dzone.com/articles/threads-top-80-interview 
+
+
+
