@@ -21,3 +21,5 @@ Note: Garbage collection is performed by a daemon thread called Garbage Collecto
 
 https://tomcat.apache.org/tomcat-5.5-doc/servletapi/javax/servlet/Servlet.html
 
+http://www.java67.com/2017/06/39-essential-java-jee-support-engineer-interview-questions-answers.html
+
